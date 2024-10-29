@@ -8,5 +8,6 @@ using namespace std;
 int main()
 {    
     cout<<"Hello C++";/* prints hello C++*/
+    cout<<"Display the code";
     return 0;
 }
